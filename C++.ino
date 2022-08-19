@@ -5,8 +5,6 @@
 
 #include <FirebaseESP8266.h>
 #include <ESP8266WiFi.h>
-#include <WiFiManager.h>
-
 
 
 /////////////////Configurations for realtime databse from Firebase///////////
