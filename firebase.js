@@ -1,11 +1,12 @@
 var config = {
-/////////////////////////////////////////
-/////////////////////////////////////////
-/////////////////////////////////////////
-/////////Your script from firebase///////
-/////////////////////////////////////////
-/////////////////////////////////////////
-/////////////////////////////////////////
+apiKey: "AIzaSyA-vsqet1KAyDYAeSAO4WzrfDNu8QjF3kA",
+    authDomain: "automation-49f06.firebaseapp.com",
+    databaseURL: "https://automation-49f06-default-rtdb.firebaseio.com",
+    projectId: "automation-49f06",
+    storageBucket: "automation-49f06.appspot.com",
+    messagingSenderId: "915632925437",
+    appId: "1:915632925437:web:17452584919bb5c3ef6c94",
+    measurementId: "G-ZKZ3JNE952"
 };
 
 firebase.initializeApp(config); ////initialize app from firebase
