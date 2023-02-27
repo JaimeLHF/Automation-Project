@@ -1,15 +1,15 @@
-var config = {
-apiKey: "AIzaSyA-vsqet1KAyDYAeSAO4WzrfDNu8QjF3kA",
-    authDomain: "automation-49f06.firebaseapp.com",
-    databaseURL: "https://automation-49f06-default-rtdb.firebaseio.com",
-    projectId: "automation-49f06",
-    storageBucket: "automation-49f06.appspot.com",
-    messagingSenderId: "915632925437",
-    appId: "1:915632925437:web:17452584919bb5c3ef6c94",
-    measurementId: "G-ZKZ3JNE952"
-};
+const firebaseConfig = {
+    apiKey: "AIzaSyA26LOi4tsvDtHsAWS0xWVcgFbT8gUy1oU",
+    authDomain: "auto-ba9fe.firebaseapp.com",
+    databaseURL: "https://auto-ba9fe-default-rtdb.firebaseio.com",
+    projectId: "auto-ba9fe",
+    storageBucket: "auto-ba9fe.appspot.com",
+    messagingSenderId: "905606421114",
+    appId: "1:905606421114:web:a7b0a64d0e9053d8ed79c3",
+    measurementId: "G-PE14QQKG0Y"
+  };
 
-firebase.initializeApp(config); ////initialize app from firebase
+firebase.initializeApp(firebaseConfig); ////initialize app from firebase
 
 
 
